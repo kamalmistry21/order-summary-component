@@ -1,0 +1,96 @@
+body {
+	background-color: hsl(225, 100%, 94%);
+	background-image: url("../images/pattern-background-desktop.svg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: hsl(0, 1%, 29%);
+	font-family: "Red Hat Display", sans-serif;
+	margin: 0;
+}
+
+button {
+	border: none;
+	border-radius: 20px;
+	display: block;
+	font-family: "Red Hat Display", sans-serif;
+	font-weight: 700;
+	height: 60px;
+	margin: 0 auto 10px auto;
+	width: 70%;
+}
+
+h1 {
+	color: hsl(0, 0%, 0%);
+}
+
+#container {
+	background-color: hsl(225, 100%, 98%);
+	border-radius: 30px;
+	overflow: hidden;
+	text-align: center;
+	width: 450px;
+
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+#top-section,
+#middle-section,
+#bottom-section {
+	margin-bottom: 40px;
+}
+
+#summary-details {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#music-plan {
+	background-color: hsl(220, 51%, 92%);
+	border-radius: 20px;
+	display: flex;
+	flex-direction: row;
+	margin: 30px auto 0 auto;
+	padding: 15px 0 15px 10px;
+	width: 70%;
+}
+
+#plan-info {
+	line-height: 0.4;
+	margin-left: 10px;
+}
+
+#plan-name {
+	font-weight: 900;
+	color: hsl(0, 0%, 0%);
+}
+
+#change {
+	font-weight: 700;
+	margin: auto;
+	margin-right: 30px;
+}
+
+#proceedToPayment {
+	background-color: hsl(245, 75%, 52%);
+	color: hsl(225, 100%, 98%);
+}
+
+#proceedToPayment:hover {
+	background-color: hsl(245, 79%, 63%);
+	cursor: pointer;
+}
+
+#cancelOrder {
+	background-color: transparent;
+	color: hsl(0, 1%, 29%);
+	margin-bottom: 10px;
+}
+
+#cancelOrder:hover {
+	color: hsl(0, 0%, 0%);
+	cursor: pointer;
+}
