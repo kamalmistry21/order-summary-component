@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/screenshot.jpg)
+![](images/screenshot.JPG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/kamalmistry21/order-summary-component](https://github.com/kamalmistry21/order-summary-component)
+- Live Site URL: [https://kamalmistry21.github.io/order-summary-component/](https://kamalmistry21.github.io/order-summary-component/)
 
 ## My process
 
@@ -39,5 +39,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Kamal Mistry]()
+- Frontend Mentor - [@kamalmistry21](https://www.frontendmentor.io/profile/kamalmistry21)
